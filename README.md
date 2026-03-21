@@ -38,3 +38,16 @@ Confirmed encrypted communication over secure ports.
 - Observed how HTTPS encrypts traffic in transit.
 - Strengthened foundational knowledge relevant to SOC monitoring and network traffic analysis.
 
+## Video Demonstration
+
+This project includes a recorded walkthrough demonstrating:
+
+- Live packet capture
+- DNS resolution analysis
+- TCP three-way handshake inspection
+- TLS encrypted traffic analysis
+
+Watch the full demonstration here:
+[Wireshark Project Walkthrough](https://youtube.com/shorts/jTmGaCAWMNg?si=78gzjMH41-TOCnUv)
+
+
